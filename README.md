@@ -1,6 +1,6 @@
 # KTC-Language-Model
 This is a language Model created based on KTC. It has been used for spell checking.
-Please refer to the following [article](http://www.lrec-conf.org/proceedings/lrec2022/workshops/SIGUL/pdf/2022.sigul-1.25.pdf) for more detail. Please cite the paper when you use these datasets:
+Please refer to our [article](http://www.lrec-conf.org/proceedings/lrec2022/workshops/SIGUL/pdf/2022.sigul-1.25.pdf) for more detail. Please cite the paper when you use these datasets:
 
 Harvard:
 ```
